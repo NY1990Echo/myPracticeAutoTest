@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="couponCases">
+<!--    CRM端创建优惠券-->
+    <test name="createCoupon">
+        <classes>
+            <class>
+
+            </class>
+        </classes>
+    </test>
+    <!--    CRM端查询优惠券列表-->
+    <test name="queryCouponList">
+        <classes>
+            <class>
+
+            </class>
+        </classes>
+    </test>
+    <!--    CRM端查询优惠券详情-->
+    <test name="queryCouponList">
+        <classes>
+            <class>
+
+            </class>
+        </classes>
+    </test>
+    <!--    CRM端更新优惠券详情-->
+    <test name="updateCoupon">
+        <classes>
+            <class>
+
+            </class>
+        </classes>
+    </test>
+    <!--    CRM端发券-->
+    <test name="sendCoupon">
+        <classes>
+            <class>
+
+            </class>
+        </classes>
+    </test>
+    <!--    CRM端失效用户单张优惠券-->
+    <test name="invalidMemberCoupon">
+        <classes>
+            <class>
+
+            </class>
+        </classes>
+    </test>
+    <!--    CRM端失效优惠券-->
+    <test name="invalidCoupon">
+        <classes>
+            <class>
+
+            </class>
+        </classes>
+    </test>
+</suite>
