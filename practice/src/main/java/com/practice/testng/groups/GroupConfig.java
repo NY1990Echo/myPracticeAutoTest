@@ -1,4 +1,4 @@
-package com.practice.testng;
+package com.practice.testng.groups;
 
 import org.testng.annotations.AfterGroups;
 import org.testng.annotations.BeforeGroups;
